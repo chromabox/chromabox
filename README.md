@@ -1,6 +1,18 @@
-### Hi there 👋
+konnnichiwa!! konnnichiwa!!
+I'm a cat engineer from japan 🇯🇵😺
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromabox)](https://github.com/anuraghazra/github-readme-stats)
+**About me**
+- Job is embedded engineer
+
+- Use C++ language but am interested in other languages
+
+- Can write Linux device drivers🐧
+
+- I'm also interested in cryptography
+
+- I'm looking for a nice multi-platform GUI library✨✨
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromabox&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **chromabox/chromabox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
