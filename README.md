@@ -12,6 +12,9 @@ I'm a cat engineer from japan 🇯🇵😺
 
 - I'm looking for a nice multi-platform GUI library✨✨
 
+see also:
+[my blog 140文字以上](https://chromabox.github.io/140m/)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chromabox&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
