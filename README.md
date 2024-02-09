@@ -12,6 +12,8 @@ I'm a cat engineer from japan 🇯🇵😺
 
 - I'm looking for a nice multi-platform GUI library✨✨
 
+- I'm interested in programming generative AI🧠🧠🧠
+
 see also:
 [my blog 140文字以上](https://chromabox.github.io/140m/)
 
